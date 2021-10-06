@@ -1,7 +1,5 @@
 videoCall feature release
 bug fix by xyz
-<<<<<<< HEAD
 current release  new code video call change branch3
-=======
 bug fix 2 by abc
->>>>>>> branch2
+
