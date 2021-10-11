@@ -23,7 +23,7 @@ public class SampleTest1 {
 		File src = ((TakesScreenshot)wd).getScreenshotAs(OutputType.FILE);
 		FileHandler.copy(src,new File("C:\\VCentry\\SeleniumWorkspace\\gitTest\\Screenshot\\google.jpg"));
 		Thread.sleep(3000);
-		int i = 1/0;
+//		int i = 1/0;
 		wd.close();
 	}
 }
